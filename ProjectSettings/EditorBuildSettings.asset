@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 66e7c68c2155ffe4cb813b0f6cd06121
+  - enabled: 1
+    path: Assets/Scenes/Urkead_Level_6.unity
+    guid: a68aa0c9ee1750a4d8fa01eb3d0ffc9e
+  - enabled: 1
+    path: Assets/Scenes/Urkead_NIVEAU 3.unity
+    guid: 4359c8390463d834e8175f4edc6e6d74
+  - enabled: 1
+    path: Assets/Scenes/Urkead_Niveau4.unity
+    guid: bfcdf05ffa8ce9546af205bedc71b9dc
+  - enabled: 1
+    path: Assets/Scenes/Urkead_NIVEAU2.unity
+    guid: 5f912a26b49c55f4c8672c574923ece0
+  - enabled: 1
+    path: Assets/Scenes/Urkead_NIVEAU1.unity
+    guid: b3ee2520b83106f43bd43524ac3642a1
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 16f388e19e74d9a45b544a5b2a0b487e
+  - enabled: 1
+    path: Assets/Scenes/ChampTir.unity
+    guid: 449dfc49553b424438486190405b433f
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 9a7b78970384a3a49b62dbb8ca637834
+  m_configObjects: {}

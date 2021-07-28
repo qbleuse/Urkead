@@ -1,0 +1,64 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Bb]uilds/
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+/Assets/AssetStoreTools*
+*.apk
+*.unitypackage
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+*.userprefs
+*.csproj
+*.pidb
+*.pidb.meta
+*.suo
+*.sln*
+*.user
+*.unityproj
+*.booproj
+.consulo/
+*.tmp
+*.svd 
+*.pdb
+*.mdb
+*.mdb.meta
+*.opendb
+*.VC.db
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+Corridor/Library/ShaderCache/
+Corridor/Library/metadata/
+
+
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Aa]ssets/Plugins/Editor/JetBrains*
+[Aa]ssets/OtherAssets/
+[Aa]ssets/Plugins/
+[Aa]ssets/Standard Assets/
+[Aa]ssets/AssetStoreTools/
+
+# Gradle cache directory
+.gradle/
+Action2.5/Assets/Materials/Physics.meta

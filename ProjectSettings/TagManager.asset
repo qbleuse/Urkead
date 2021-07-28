@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - climbable
+  - Enemy
+  - GameMgr
+  - TextUI
+  - Checkpoint
+  - Zone
+  - Slow Zone
+  - Player Bullet
+  - Enemy Bullet
+  - Kill Zone
+  - Slow Box
+  - PushZone
+  - Dash2
+  - Dash1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Zone
+  - Bullet
+  - PlayerBullet
+  - checkPoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
