@@ -34,7 +34,7 @@ ___
 
 Here are some in game screenshots:
 
-![main_menu](Media/main_menu.png)
+![main_menu](Media/mainmenu.png)
 ![ingame](Media/ingame.png)
 ___
 
