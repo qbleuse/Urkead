@@ -12,7 +12,7 @@ ___
 
 ![Isart](Media/ISART-Digital.png)
 
-The project has been developed as a school assignment of [ISART Digital](https://www.isart.fr/) the project is then theirs and the authors property.
+The project has been developed as a school assignment of [ISART Digital](https://www.isart.com/) the project is then theirs and the authors property.
 We do not proclaim property over any of the assets we use on the project except the [scripts](Assets/Scripts/).
 
 The project was done by Game designers and Game Programmers:
