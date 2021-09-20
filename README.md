@@ -24,6 +24,7 @@ The project was done by Game designers and Game Programmers:
 | LAUZIER Andre | Game Designer
 | PETROVIC Dilane | Game Designer
 | TRAORE Fatou Aicha | Game Designer
+| CLAUSS Ethis | Game Designer
 | PICHARD Amélie | Game Programmer
 | DEPREZ Nicolas | Game Programmer
 | BLEUSE Quentin | Game Programmer
